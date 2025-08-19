@@ -2,24 +2,6 @@
 
 **Brief tagline**: A clean dataset and analysis notebook for the 2024 Lok Sabha election results in India.
 
----
-
-##  Project Overview
-
-A short paragraph explaining:
-- What the dataset includes (election results, constituencies, parties, vote shares, etc.)
-- Why it’s useful (e.g., for data analysis, visualization, political research).
-
----
-
-##  Motivation
-
-Describe why you created this project:
-- Is it for your coursework, research, or a portfolio?
-- What real-world questions can it help answer?
-
----
-
 ##  Contents
 
 A brief listing or explanation of key files and what they contain:
